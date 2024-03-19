@@ -12,7 +12,20 @@
           "package_name": "com.hz.iamdictive"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "153269552102-dj106jlrtvcklf86205ikff9bakfijlt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hz.iamdictive",
+            "certificate_hash": "2627879e95856c3daf655c3cceff54946bd8ffa5"
+          }
+        },
+        {
+          "client_id": "153269552102-hkvgs6etfu73daj9a2vcqsopcdd609a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAupauGTq-RI-PYpHUggVXHWKEPe9DnQ-4"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153269552102-hkvgs6etfu73daj9a2vcqsopcdd609a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

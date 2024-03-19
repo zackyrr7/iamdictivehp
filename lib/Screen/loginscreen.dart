@@ -24,12 +24,12 @@ class LoginScreen extends StatelessWidget {
     return Column(
       mainAxisSize: MainAxisSize.min,
       children: [
-        CircleAvatar(
-          backgroundImage:
-              Image.network(controller.googleAccount.value?.photoUrl ?? '')
-                  .image,
-          radius: 100,
-        ),
+        // CircleAvatar(
+        //   backgroundImage:
+        //       Image.network(controller.googleAccount.value?.photoUrl ?? '')
+        //           .image,
+        //   radius: 100,
+        // ),
         Text(
           controller.googleAccount.value?.displayName ?? '',
           style: Get.textTheme.headlineMedium,
