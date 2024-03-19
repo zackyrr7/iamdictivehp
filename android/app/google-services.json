@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153269552102",
+    "project_id": "iamdictive",
+    "storage_bucket": "iamdictive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153269552102:android:ab17414560b507292c0c27",
+        "android_client_info": {
+          "package_name": "com.hz.iamdictive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAupauGTq-RI-PYpHUggVXHWKEPe9DnQ-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
